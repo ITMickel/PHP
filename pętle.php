@@ -15,14 +15,14 @@ if ($numer < 0 or $number > 20) {
 echo "Liczna $number jest ujemna lub większa niż 20.<br>";
 }
 
-elseif ($number != 3.5) {
+elseif ($number != 37) {
 
-echo "Liczna $number nie jest równa 3.5<br>";
+echo "Liczna $number nie jest równa 37<br>";
 }
 
 else {
 
-echo "Liczna $number jest równa 3.5.";
+echo "Liczna $number jest równa 37.";
 }
 ?>
 </body>
